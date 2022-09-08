@@ -88,7 +88,7 @@ $ cd Shopsie/
 3. Use `flutterfire configure` to generate firebase_options.dart file.
 - you can find these files in your firebase console and project setting.
 
-4. Add your API base url or local IP on which server is running
+4. Add your API base url or local IP on which server is running in api_client.dart
 
 5. ```flutter pub get ```
 
