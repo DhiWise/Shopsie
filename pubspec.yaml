@@ -1,0 +1,51 @@
+name: shopsie
+description: A new Flutter project.
+version: 1.0.0+1
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+  cupertino_icons: ^1.0.5
+  connectivity_plus: ^2.3.6
+  shared_preferences: ^2.0.15
+  cached_network_image: ^3.2.1
+  flutter_svg: ^0.22.0
+#  flutter_login_facebook: ^1.1.0
+  http: ^0.13.3
+  google_sign_in: ^5.2.1
+  smooth_page_indicator: ^1.0.0+2
+  fluttertoast: ^8.0.8
+  firebase_auth: ^3.3.4
+  firebase_core: ^1.10.6
+  flutter_facebook_auth: ^4.4.1
+  url_launcher: 6.0.20
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+  fonts:
+    - family: Lato
+      fonts:
+        - asset: assets/fonts/LatoRegular.ttf
+          weight: 400
+        - asset: assets/fonts/LatoBold.ttf
+          weight: 700
+    - family: Montserrat
+      fonts:
+        - asset: assets/fonts/MontserratRomanSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/MontserratMedium.ttf
+          weight: 500
+    - family: Playfair Display
+      fonts:
+        - asset: assets/fonts/PlayfairDisplayRomanBold.ttf
+          weight: 700
+        - asset: assets/fonts/PlayfairDisplayRomanRegular.ttf
+          weight: 400
