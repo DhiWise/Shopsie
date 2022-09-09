@@ -4,7 +4,8 @@
     Generated with ❤️ from Dhiwise
   </strong><br>
   <strong>
-  Shopsie is an eCommerce application. This application has a technology stack for front-end Flutter, and the back-end has <a href=="https://medusajs.com/"/>Medusa</a>'s eCommerce API.</strong>
+  
+  Shopsie is an eCommerce demo application.This application has a technology stack of Flutter for front-end and the back-end has <a href="https://medusajs.com/"/>Medusa</a>'s eCommerce API.</strog>
 
 
 
