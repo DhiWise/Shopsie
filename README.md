@@ -16,9 +16,10 @@
 - [Setup](#setup)
 - [Version of Technologies](#version-of-technologies)
 - [Folder Structure](#folder-structure)
+- [Get More About App](#get-more-about-app)
 - [MIT License](#mit-license)
 - [Community](#community)
-
+ 
 
 ## Features
 <ul>
@@ -132,6 +133,12 @@ Flutter SDK Version 3.0.0 or greater.
 └── theme - contains app theme and decoration classes
 
 ```
+
+## Get More About App
+Documetation: https://www.dhiwise.com/use-case/medusa-e-commerce
+
+Blog: https://medium.com/dhiwise/how-to-speed-up-the-development-time-of-e-commerce-mobile-applications-using-dhiwise-and-medusa-2443f2660401
+
 
 ## MIT License
 
