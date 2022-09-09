@@ -61,7 +61,11 @@ Customer Infromation
 <li>Product Search</li>
 </ul>
 
-<h1>Screenshots</h1>  
+
+<p>Note: This application contains static screens such as landing screen.</p>
+
+
+## Screenshots  
 
 
 <image src="https://user-images.githubusercontent.com/112176734/189121885-8b332ecf-e849-4860-8d3d-ffdefad7e808.png" style="width:100%"/>
@@ -96,7 +100,7 @@ $ cd Shopsie/
 6. ``` flutter run ```
 
 
-<h1>Version of Technologies</h1>
+## Version of Technologies
 Dart SDK Version 2.17.0 or greater. 
 Flutter SDK Version 3.0.0 or greater.
 
